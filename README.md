@@ -16,3 +16,6 @@ Para criação dos protótipos do portfolio foi utilizado os principais aplicati
 
 ## Cores
 Para trabalhar com as cores dos modelos publicados aqui, foi usado a [paleta de cores FlatUI](https://flatuicolors.com).
+
+## Ícones
+Os ícones usados nos modelos publicados aqui foram criados por mim, porém alguns deles foram inspirados ou retirados do repostitório do [FlatIcon](https://www.flaticon.com).
