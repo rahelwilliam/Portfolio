@@ -1,6 +1,18 @@
 # Say It - Fala ai
 **É um Prototipo (em JPG e PSD)** que criei, **para layout do "Say It" (em inglês) ou "Fala ai" (em Português)**, que é uma aplicação desenvolvida para Smartphone Android, **inspirada no Design UI** e planejado também com **Design UX**.
 
+## Protótipo
+
+Abaixo os layouts desenhados para a nova versão do aplicativo.
+
+### Com botão save
+
+![Modelo SayIt com botão SAVE](Modelo SayIt com botão SAVE.jpg)
+
+### Sem botão save
+
+![Modelo SayIt sem botão SAVE](Modelo SayIt sem botão SAVE.jpg)
+
 ***
 
 >O Projeto do Say It é uma criação de Rafael Passarela
